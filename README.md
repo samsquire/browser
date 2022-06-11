@@ -16,3 +16,8 @@ For coordinate to object identification I can create a tree with each stopping p
 From this I can work out what widgets are highlighted and change their colour.
 
 I can implement text highlight as a collection of moused over widgets and change their colour.
+
+# renderer
+
+The renderer shall be in Python and the Server shall be in Java.
+
