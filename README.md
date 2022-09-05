@@ -21,3 +21,8 @@ I can implement text highlight as a collection of moused over widgets and change
 
 The renderer shall be in Python and the Server shall be in Java.
 
+# first attempt at a layout engine
+
+![image](https://user-images.githubusercontent.com/1983701/188484030-921b6653-4bf4-4d9a-a8f7-919ad9618ebf.png)
+
+
