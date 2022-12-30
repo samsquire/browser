@@ -25,4 +25,8 @@ The renderer shall be in Python and the Server shall be in Java.
 
 ![image](https://user-images.githubusercontent.com/1983701/188484030-921b6653-4bf4-4d9a-a8f7-919ad9618ebf.png)
 
+# with text
+
+![image](https://user-images.githubusercontent.com/1983701/210076565-40759ebf-3d5a-45a1-a9d8-3044fb2029ec.png)
+
 
